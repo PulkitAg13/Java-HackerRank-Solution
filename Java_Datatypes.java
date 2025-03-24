@@ -24,5 +24,6 @@ public class Java_Datatypes {
             }
 
         }
+        sc.close();
     }
 }
