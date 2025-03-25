@@ -10,6 +10,7 @@ public class Java_Currency_Formatter {
         
         // Write your code here.
         Locale usLocale = Locale.US;
+        @SuppressWarnings("deprecation")
         Locale indiaLocale = new Locale("en", "IN");
         Locale chinaLocale = Locale.CHINA;
         Locale franceLocale = Locale.FRANCE;
