@@ -41,6 +41,7 @@ Feel free to **contribute** by improving solutions or adding comments for better
 ## Stay Connected 💬
 - 🔗 [HackerRank Profile](https://www.hackerrank.com/profile/pulkit_ag13) 
 - 🐙 [GitHub](https://github.com/pulkitag13/) 
+- 💼 [LinkedIN](https://www.linkedin.com/in/pulkitag13/)
 
 Happy Coding! 🚀🔥
 
