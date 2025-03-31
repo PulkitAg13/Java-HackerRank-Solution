@@ -26,7 +26,7 @@ Each problem is stored in a separate file inside the `solutions/` directory, nam
 ## How to Use? 🔧
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/HackerRank-Java-Solutions.git
+   git clone https://github.com/PulkitAg13/HackerRank-Java-Solutions.git
    ```
 2. Navigate to the `solutions/` directory and open any `.java` file.
 3. Compile and run the Java file:
