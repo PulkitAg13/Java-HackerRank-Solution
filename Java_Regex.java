@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Java_Regex{
 
     public static void main(String[] args){
@@ -6,6 +8,7 @@ class Java_Regex{
             String IP = in.next();
             System.out.println(IP.matches(new MyRegex().pattern));
         }
+        in.close();
 
     }
 }
