@@ -26,5 +26,7 @@ public class Tag_Content_Extractor {
 
             testCases--;
         }
+        
+        in.close();
     }
 }
