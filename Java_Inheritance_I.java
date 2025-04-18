@@ -15,5 +15,12 @@ class Bird extends Animal{
 }
 
 public class Java_Inheritance_I {
-    
+    public static void main(String args[]){
+
+        Bird bird = new Bird();
+        bird.walk();
+        bird.fly();
+        bird.sing();
+      
+     }
 }
