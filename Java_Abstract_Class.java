@@ -6,6 +6,13 @@ abstract class Book{
 	}
 }
 
+//Write MyBook class here
+class MyBook extends Book{
+    void setTitle(String s){
+        this.title = s;
+    }
+}
+
 public class Java_Abstract_Class {
     
 }
