@@ -5,6 +5,8 @@ class Arithmetic{
     }
 }
 
+class Adder extends Arithmetic{}
+
 public class Java_Inheritance_II {
     public static void main(String []args){
         // Create a new Adder object
