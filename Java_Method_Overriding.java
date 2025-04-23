@@ -9,6 +9,19 @@ class Sports{
     }
 }
 
+class Soccer extends Sports{
+    @Override
+    String getName(){
+        return "Soccer Class";
+    }
+
+    // Write your overridden getNumberOfTeamMembers method here
+    void getNumberOfTeamMembers(){
+        System.out.println( "Each team has 11 players in " + getName() );
+    }
+
+}
+
 public class Java_Method_Overriding {
     public static void main(String []args){
         Sports c1 = new Sports();
