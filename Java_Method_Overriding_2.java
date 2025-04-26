@@ -1,4 +1,3 @@
-
 class BiCycle{
 	String define_me(){
 		return "a vehicle with pedals.";
@@ -21,5 +20,7 @@ class MotorCycle extends BiCycle{
 }
 
 public class Java_Method_Overriding_2 {
-    
+    public static void main(String []args){
+		MotorCycle M=new MotorCycle();
+	}
 }
