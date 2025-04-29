@@ -34,5 +34,6 @@ public class Java_Iterator {
          Object element = it.next();
          System.out.println((String)element);
       }
+      sc.close();
    }
 }
