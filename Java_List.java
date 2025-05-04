@@ -29,6 +29,7 @@ public class Java_List {
                 }
             }
         }
+        sc.close();
 
         for (int num : list) {
             System.out.print(num + " ");
